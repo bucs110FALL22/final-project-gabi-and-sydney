@@ -1,0 +1,6 @@
+There should only be 2 files in this folder:
+
+`main.py`
+`README.md`
+
+All other files must go into subfolders
