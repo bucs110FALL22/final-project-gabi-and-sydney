@@ -5,11 +5,11 @@
 ### << Semester, Year >>
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit?usp=sharing)
 
-[repl](https://replit.com/@GabriellaVieira/final-project-gabi-and-sydney) 
+repl(https://replit.com/@GabriellaVieira/final-project-gabi-and-sydney) 
 
 << [link to demo presentation slides](#) >>
 
-### Team: Gabi and SydneY
+### Team: Gabi and Sydney
 #### Sydney Palmer and Gabriella Vieira
 
 ***
