@@ -1,8 +1,8 @@
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 # CS110 Project Proposal
-# << Project Title >>
+# << Habit Tracker>>
 ## CS 110 Final Project
-### << Semester, Year >>
+### << Fall Semester, 2026 >>
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit?usp=sharing)
 
 repl(https://replit.com/@GabriellaVieira/final-project-gabi-and-sydney) 
